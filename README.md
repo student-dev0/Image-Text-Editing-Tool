@@ -1,10 +1,15 @@
-# editing_tool
+# Image - Text Editing_tool
 
-A new Flutter project.
+A lightweight flutter application that allow users add stylish text to any image background with customizable features . The app focuses on simplicity while providing powerful text editing tools.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+[permission_handler](https://pub.dev/packages/permission_handler) - Handle Runtime Permissions,
+
+[image_picker](https://pub.dev/packages/image_picker) - Select images or capture from camera of gallery,
+
+[gallery_saver](https://pub.dev/packages/gallery_saver) - Save edited images to device gallery.
+
 
 A few resources to get you started if this is your first Flutter project:
 
